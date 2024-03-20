@@ -27,6 +27,8 @@ This project relies on the following npm packages:
 ## Walkthrough
 Because this application cannot be deployed, I have provided a video walkthrough demonstarting functionality.
 
+https://drive.google.com/file/d/1osAnYwZGCGkL81PHsDeJ5fkA4eovrS2O/view?usp=sharing
+
 
 ## Contributing
 
